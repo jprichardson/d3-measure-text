@@ -35,5 +35,6 @@
   "repository": {
     "url": "jprichardson/d3-measure-text",
     "type": "git"
-  }
+  },
+  "description": "A JavaScript component to measure the the width and height of SVG text."
 }
