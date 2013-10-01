@@ -27,7 +27,7 @@ Install
 
 ### Bower
 
-    bower install jsock
+    bower install d3-measure-text
 
 
 ### Script
