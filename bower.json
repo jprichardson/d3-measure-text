@@ -15,7 +15,8 @@
     "measure",
     "text",
     "height",
-    "width"
+    "width",
+    "measure"
   ],
   "main": "lib/d3-measure-text.js",
   "dependencies": {},

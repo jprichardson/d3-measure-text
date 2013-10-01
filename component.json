@@ -14,7 +14,8 @@
     "measure",
     "text",
     "height",
-    "width"
+    "width",
+    "measure"
   ],
   "scripts": [
     "lib/d3-measure-text.js"

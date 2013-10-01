@@ -14,7 +14,8 @@
     "measure",
     "text",
     "height",
-    "width"
+    "width",
+    "measure"
   ],
   "author": "JP Richardson <jprichardson@gmail.com>",
   "licenses": [
