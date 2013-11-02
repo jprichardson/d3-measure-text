@@ -1,6 +1,6 @@
 {
   "name": "d3-measure-text",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "D3",
     "D3.js",
@@ -20,6 +20,7 @@
   "scripts": [
     "lib/d3-measure-text.js"
   ],
+  "main": "lib/d3-measure-text.js",
   "repo": "jprichardson/d3-measure-text",
   "description": "A JavaScript component to measure the the width and height of SVG text."
 }
